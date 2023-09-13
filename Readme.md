@@ -1,6 +1,8 @@
 # Requirements
 Matlab R2019a or newer  
+
 The code runs on macOS and Microsoft Windows 7 or newer, 64-bit
+
 128G RAM
 
 # How to run
