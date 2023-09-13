@@ -18,4 +18,4 @@ If you have the pupil function of PSF, use Double-Helix PSF demo, add or replace
 For any questions / comments about this software, please contact [Li Lab](https://faculty.sustech.edu.cn/liym2019/en/).
 
 # Copyright
-Copyright (c) 2021 Li Lab, Southern University of Science and Technology, Shenzhen.
+Copyright (c) 2023 Li Lab, Southern University of Science and Technology, Shenzhen.
