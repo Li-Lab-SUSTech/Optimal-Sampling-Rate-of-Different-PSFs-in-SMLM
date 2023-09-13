@@ -6,7 +6,7 @@ The code runs on macOS and Microsoft Windows 7 or newer, 64-bit
 128G RAM
 
 # How to run
-These three catalpgs corresponds to 4Pi PSF demo, Astigmatic & Tetrapod PSF demo and Double-Helix PSF demo.
+These three catalogs corresponds to 4Pi PSF demo, Astigmatic & Tetrapod PSF demo and Double-Helix PSF demo.
 
 Example codes are available in the file ***test1.m*** in each demo 
 
